@@ -151,3 +151,5 @@ function getSocketIdOfUserInGroup(user_id, group_id) {
         }
     }
 }
+
+module.exports = app;
